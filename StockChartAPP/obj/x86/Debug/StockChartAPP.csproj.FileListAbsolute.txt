@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\bin\Debug\Database.mdf
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\bin\Debug\Database_log.ldf
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\bin\Debug\StockChartAPP.exe.config
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\bin\Debug\StockChartAPP.exe
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\bin\Debug\StockChartAPP.pdb
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\obj\x86\Debug\StockChartAPP.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\obj\x86\Debug\StockChartAPP.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\obj\x86\Debug\StockChartAPP.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\obj\x86\Debug\StockChartAPP.exe
+c:\users\user\documents\visual studio 2010\Projects\StockChartAPP\StockChartAPP\obj\x86\Debug\StockChartAPP.pdb
